@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+#main{
+	padding: 25px;
+	background-color: lightgray;
+}
+
+.box{
+	padding: 8px;
+	border: 1px solid gray;
+	background-color: white;
+}
+
+.author{
+	text-align: right;
+	font-style: italic
+}
